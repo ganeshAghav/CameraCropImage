@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraCropImage</string>
+
+    <string name="app_title">Image Cropper</string>
+    <string name="result_image_desc">crop result</string>
+
+
+</resources>
